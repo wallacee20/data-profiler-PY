@@ -140,3 +140,13 @@ import os            # Para interagir com o sistema operacional
 
 **Saída do Terminal**
 * A área inferior da imagem mostra a saída do console, confirmando que cada um dos DataFrames foi salvo com sucesso em seu respectivo arquivo `.csv`.
+
+---
+
+### Contribuições e Contato
+Se você gostou deste projeto ou tem sugestões, fique à vontade para abrir uma issue ou enviar um pull request!
+Também estou disponível para tirar dúvidas e trocar ideias — basta me contatar.
+
+LinkedIn: [Meu-linkedin](https://www.linkedin.com/in/wallace-almeida-amaral/)
+
+WhatsApp: [Clique aqui para enviar uma mensagem](5587999160921)
