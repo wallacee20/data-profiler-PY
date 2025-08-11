@@ -124,7 +124,7 @@ import os            # Para interagir com o sistema operacional
 
 ### 4. Salvando o Resultado
 ![Salvando o resultado](img/salvando.jpeg)  
-> Esta imagem final mostra o processo de salvar os DataFrames (presumivelmente tratados) em novos arquivos CSV.
+> Esta imagem final mostra o processo de salvar os DataFrames em novos arquivos CSV.
 
 **Criação de um Dicionário**
 * Um dicionário `dataframes_para_salvar` é criado para mapear os nomes dos arquivos de saída para os DataFrames correspondentes.
